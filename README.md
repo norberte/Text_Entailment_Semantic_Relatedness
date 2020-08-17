@@ -1,1 +1,1 @@
-# NLP-course
+# NLP tasks: Text Entailment and Semantic Relatedness
